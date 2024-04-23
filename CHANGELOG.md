@@ -2,6 +2,89 @@
 
 # Changelog
 
+### [Version 0.148.8](https://github.com/lobehub/lobe-chat/compare/v0.148.7...v0.148.8)
+
+<sup>Released on **2024-04-23**</sup>
+
+#### 💄 Styles
+
+- **misc**: update some `gemini` deployment restrictions.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: update some `gemini` deployment restrictions, closes [#2149](https://github.com/lobehub/lobe-chat/issues/2149) ([6d36863](https://github.com/lobehub/lobe-chat/commit/6d36863))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.148.7](https://github.com/lobehub/lobe-chat/compare/v0.148.6...v0.148.7)
+
+<sup>Released on **2024-04-23**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix qwen-1.5-chat-72B context window in togetherai.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix qwen-1.5-chat-72B context window in togetherai, closes [#2142](https://github.com/lobehub/lobe-chat/issues/2142) ([d0753cf](https://github.com/lobehub/lobe-chat/commit/d0753cf))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.148.6](https://github.com/lobehub/lobe-chat/compare/v0.148.5...v0.148.6)
+
+<sup>Released on **2024-04-22**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Add Windows Phone, iPadOS, BlackBerry OS, Linux OS and Chrome OS sync icons.
+
+#### 💄 Styles
+
+- **misc**: Support more model Icons: dbrx, command-r, openchat, rwkv, Bert-vits2, Stable Diffusion, WizardLM, adobe firefly, skylark.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Add Windows Phone, iPadOS, BlackBerry OS, Linux OS and Chrome OS sync icons, closes [#2139](https://github.com/lobehub/lobe-chat/issues/2139) ([8ed1f07](https://github.com/lobehub/lobe-chat/commit/8ed1f07))
+
+#### Styles
+
+- **misc**: Support more model Icons: dbrx, command-r, openchat, rwkv, Bert-vits2, Stable Diffusion, WizardLM, adobe firefly, skylark, closes [#2107](https://github.com/lobehub/lobe-chat/issues/2107) ([4268d8b](https://github.com/lobehub/lobe-chat/commit/4268d8b))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 0.148.5](https://github.com/lobehub/lobe-chat/compare/v0.148.4...v0.148.5)
 
 <sup>Released on **2024-04-22**</sup>
