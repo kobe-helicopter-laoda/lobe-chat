@@ -2,6 +2,81 @@
 
 # Changelog
 
+## [Version 0.149.0](https://github.com/lobehub/lobe-chat/compare/v0.148.10...v0.149.0)
+
+<sup>Released on **2024-04-24**</sup>
+
+#### ✨ Features
+
+- **misc**: Fully support ollama with browser request mode.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Fully support ollama with browser request mode, closes [#2168](https://github.com/lobehub/lobe-chat/issues/2168) ([562d189](https://github.com/lobehub/lobe-chat/commit/562d189))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.148.10](https://github.com/lobehub/lobe-chat/compare/v0.148.9...v0.148.10)
+
+<sup>Released on **2024-04-24**</sup>
+
+#### 💄 Styles
+
+- **misc**: Update Ollama model 240421.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Update Ollama model 240421, closes [#2130](https://github.com/lobehub/lobe-chat/issues/2130) ([e797af0](https://github.com/lobehub/lobe-chat/commit/e797af0))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.148.9](https://github.com/lobehub/lobe-chat/compare/v0.148.8...v0.148.9)
+
+<sup>Released on **2024-04-23**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor for session server mode.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor for session server mode, closes [#2163](https://github.com/lobehub/lobe-chat/issues/2163) ([e012597](https://github.com/lobehub/lobe-chat/commit/e012597))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 0.148.8](https://github.com/lobehub/lobe-chat/compare/v0.148.7...v0.148.8)
 
 <sup>Released on **2024-04-23**</sup>
