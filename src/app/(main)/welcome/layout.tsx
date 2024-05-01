@@ -3,6 +3,8 @@ import ServerLayout from '@/components/server/ServerLayout';
 import Desktop from './_layout/Desktop';
 import Mobile from './_layout/Mobile';
 
-const MarketLayout = ServerLayout({ Desktop, Mobile });
+const WelcomeLayout = ServerLayout({ Desktop, Mobile });
 
-export default MarketLayout;
+WelcomeLayout.displayName = 'WelcomeLayout';
+
+export default WelcomeLayout;
