@@ -2,6 +2,183 @@
 
 # Changelog
 
+### [Version 0.159.10](https://github.com/lobehub/lobe-chat/compare/v0.159.9...v0.159.10)
+
+<sup>Released on **2024-05-15**</sup>
+
+#### 💄 Styles
+
+- **misc**: Fix setting modal on responsive and some other style problem.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Fix setting modal on responsive and some other style problem, closes [#2512](https://github.com/lobehub/lobe-chat/issues/2512) ([f6b4ca4](https://github.com/lobehub/lobe-chat/commit/f6b4ca4))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.159.9](https://github.com/lobehub/lobe-chat/compare/v0.159.8...v0.159.9)
+
+<sup>Released on **2024-05-14**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix agent config on page init.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix agent config on page init, closes [#2506](https://github.com/lobehub/lobe-chat/issues/2506) ([90e742d](https://github.com/lobehub/lobe-chat/commit/90e742d))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.159.8](https://github.com/lobehub/lobe-chat/compare/v0.159.7...v0.159.8)
+
+<sup>Released on **2024-05-14**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix retry issue when hide page.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix retry issue when hide page, closes [#2503](https://github.com/lobehub/lobe-chat/issues/2503) ([24489bc](https://github.com/lobehub/lobe-chat/commit/24489bc))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.159.7](https://github.com/lobehub/lobe-chat/compare/v0.159.6...v0.159.7)
+
+<sup>Released on **2024-05-14**</sup>
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.159.6](https://github.com/lobehub/lobe-chat/compare/v0.159.5...v0.159.6)
+
+<sup>Released on **2024-05-14**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Login button not show on user panel.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Login button not show on user panel, closes [#2496](https://github.com/lobehub/lobe-chat/issues/2496) ([39637fb](https://github.com/lobehub/lobe-chat/commit/39637fb))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.159.5](https://github.com/lobehub/lobe-chat/compare/v0.159.4...v0.159.5)
+
+<sup>Released on **2024-05-14**</sup>
+
+#### 💄 Styles
+
+- **misc**: Fix scroll and expand.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Fix scroll and expand, closes [#2470](https://github.com/lobehub/lobe-chat/issues/2470) ([8b1202a](https://github.com/lobehub/lobe-chat/commit/8b1202a))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.159.4](https://github.com/lobehub/lobe-chat/compare/v0.159.3...v0.159.4)
+
+<sup>Released on **2024-05-14**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Refresh model config form & mobile footer button lost.
+
+#### 💄 Styles
+
+- **misc**: Add GPT-4o model, update perplexity models, updates 01.AI model list.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Refresh model config form & mobile footer button lost, closes [#2318](https://github.com/lobehub/lobe-chat/issues/2318) [#2319](https://github.com/lobehub/lobe-chat/issues/2319) [#1811](https://github.com/lobehub/lobe-chat/issues/1811) ([eadcefc](https://github.com/lobehub/lobe-chat/commit/eadcefc))
+
+#### Styles
+
+- **misc**: Add GPT-4o model, closes [#2481](https://github.com/lobehub/lobe-chat/issues/2481) ([ae6a03f](https://github.com/lobehub/lobe-chat/commit/ae6a03f))
+- **misc**: Update perplexity models, closes [#2469](https://github.com/lobehub/lobe-chat/issues/2469) ([488cde7](https://github.com/lobehub/lobe-chat/commit/488cde7))
+- **misc**: Updates 01.AI model list, closes [#2471](https://github.com/lobehub/lobe-chat/issues/2471) ([f28711a](https://github.com/lobehub/lobe-chat/commit/f28711a))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 0.159.3](https://github.com/lobehub/lobe-chat/compare/v0.159.2...v0.159.3)
 
 <sup>Released on **2024-05-14**</sup>
